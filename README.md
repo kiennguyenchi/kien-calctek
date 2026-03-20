@@ -1,6 +1,8 @@
 # Kien Calctek
 
 Kien Calctek is a modern, API-driven calculator built to demonstrate full-stack development principles. It features a reactive UI, a persistent "ticker tape" history, and support for both basic and complex mathematical expressions.
+<img width="919" height="535" alt="Screenshot 2026-03-20 at 12 41 03 PM" src="https://github.com/user-attachments/assets/7a1c7a0d-da70-4e15-be09-ab986b6dc242" />
+
 
 ## 🚀 Features
 
